@@ -1,0 +1,6 @@
+**/ignore_logs
+*.py
+!file[a-z].py
+!file??.py
+**/logs2
+/logs.logs
